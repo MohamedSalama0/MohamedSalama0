@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salama</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate Software Enginner from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsalama0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsalama0" /> </p>
 
-- 🔭 I’m currently working on [Food & delivery’s app](https://github.com/MohamedSalama0/food_delivery_app)
+- 🔭 I’m currently working on Crystal Mind
 
 - 🌱 I’m currently learning **.Net full stack**
 
